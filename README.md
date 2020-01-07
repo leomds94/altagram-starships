@@ -15,8 +15,9 @@ To run the API:
 python <project_path>/app.py
 ``
 
-- ### Endpoint: 
-/starships - GET Method
+## Endpoints: 
+----
+###/starships - GET Method
 
 #### Description
 To get all the starships simply call:

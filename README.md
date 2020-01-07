@@ -11,11 +11,18 @@
 ## Usage 
 
 To run the API:
-`` python <project_path>/app.py
+``
+python <project_path>/app.py
+``
 
+- ### Endpoint: 
+/starships - GET Method
+
+#### Description
 To get all the starships simply call:
 
-#### /starships - GET Method
+#### URL Params:
+None
 
 ##### Response example:
 
@@ -32,5 +39,5 @@ To get all the starships simply call:
             {"name": "starship 8"},
             {"name": "starship 3"} 
         ]
-    }
+}
 ```

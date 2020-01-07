@@ -16,8 +16,8 @@ python <project_path>/app.py
 ``
 
 ## Endpoints: 
-----
-###/starships - GET Method
+
+### /starships - GET Method
 
 #### Description
 To get all the starships simply call:
